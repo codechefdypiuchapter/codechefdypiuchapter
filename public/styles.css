@@ -1,0 +1,163 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar {
+  padding: 15px;
+}
+
+.navbar h6 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+}
+
+.aboutus {
+  position: absolute;
+  display: inline-block;
+  margin-left: calc(100% - 200px);
+  margin-top: -25px;
+}
+
+.faq {
+  position: absolute;
+  display: inline-block;
+  margin-left: calc(100% - 100px);
+  margin-top: -25px;
+}
+
+.text {
+  float: left;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.title {
+  margin-top: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 72px;
+  width: 550px;
+}
+
+.tagline {
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  width: 550px;
+}
+
+.mission {
+  line-height: 30px;
+  margin-top: 40px;
+  width: 500px;
+  text-align: left;
+  opacity: 0.7;
+}
+
+.vectorimg {
+  margin-top: 90px;
+  height: 450px;
+  width: 450px;
+  float: right;
+}
+
+.fakebutton {
+  position: absolute;
+  margin-top: 540px;
+  width: 250px;
+  height: 50px;
+  padding: 10px;
+  background-color: #542acd;
+  color: #fff;
+  border-radius: 4px;
+  text-align: center;
+  margin-left: 100px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.oneliner {
+  right: 0px;
+  margin-top: 800px;
+  position: absolute;
+  text-align: left;
+  padding: 30px;
+  width: 100%;
+  height: 200px;
+  background-color: #f1edfc;
+}
+
+.oneliner h5 {
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-left: 250px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.oneliner p {
+  right: 600px;
+  margin-top: 80px;
+  position: absolute;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  opacity: 0.6;
+}
+
+.oneliner img {
+  height: 150px;
+  width: 150px;
+  float: right;
+  position: absolute;
+  right: 160px;
+}
+
+.aboutusdiv {
+  margin-top: 1100px;
+  text-align: center;
+}
+
+.aboutusdiv img {
+  height: 250px;
+  width: 250px;
+  margin-top: -230px;
+}
+
+.aboutusdiv h2 {
+  margin-top: 10px;
+  color: #542acd;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.aboutusdiv h4 {
+  margin-top: 10px;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+}
+
+.aboutusdiv p {
+  margin-top: 90px;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 17px;
+  text-align: justify;
+  color: #212227, 0.3;
+  width: 40%;
+  line-height: 26px;
+  margin-left: -600px;
+}
