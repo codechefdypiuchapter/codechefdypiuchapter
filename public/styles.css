@@ -161,3 +161,66 @@ body {
   line-height: 26px;
   margin-left: -600px;
 }
+
+.team {
+  margin-top: 470px;
+  text-align: center;
+}
+
+.teamheading {
+  margin-top: 20px;
+}
+
+.team h2 {
+  margin-top: 10px;
+  color: #542acd;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.team h5 {
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 17px;
+}
+
+.members {
+  background-color: #f1edfc;
+  margin-top: 30px;
+  padding: 70px;
+  position: absolute;
+  width: 100%;
+  right: 0px;
+}
+
+.footertable {
+  margin-top: 900px;
+  padding: 30px;
+  position: absolute;
+  right: 0px;
+  background-color: #542acd;
+  width: 100%;
+}
+
+.footertable h6 {
+  font-size: 17px;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.footertable ul {
+  list-style: none;
+}
+
+.footertable p {
+  color: #fff;
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
